@@ -90,7 +90,7 @@
 
 ---
 
-## ⭐ Star 趋势
+## ⭐ Star 趋势7
 
 [![Star History Chart](https://api.star-history.com/svg?repos=anduinnn/HiFiNi-Auto-CheckIn&type=Date)](https://www.star-history.com/#anduinnn/HiFiNi-Auto-CheckIn&Date)
 
