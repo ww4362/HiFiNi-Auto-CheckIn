@@ -11,7 +11,7 @@
 
 ## 🚀 快速开始
 
-### 1. Fork 项目
+### 1. Fork 项目aaa
 
 点击 [Fork](https://github.com/anduinnn/HiFiNi-Auto-CheckIn) 到自己的仓库。
 
